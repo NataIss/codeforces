@@ -1,2 +1,2 @@
 # codeforces
-how to became red on codeforces
+how to become red on codeforces
