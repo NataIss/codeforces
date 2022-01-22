@@ -9,6 +9,7 @@ Codeforces_06 - Contest Number - Max rating correlation - to be added
 Codeforces_07 - User Cities  
 Codeforces_11_interval - Active\Inactive status for CF users  
 Codeforces_12_FailedOnFullTests    
-Codeforces_13_LoadCFUserInfo
+Codeforces_13_LoadCFUserInfo  
+Codeforces_15_NumOfUsersByContest
 
 
